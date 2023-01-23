@@ -1,3 +1,4 @@
+# Crie um programa que leia o nome completo de uma pessoa:
 name = input('Insert your name: ')
 print("""So, your name is {}.
 Upper: {}
