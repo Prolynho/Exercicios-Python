@@ -1,3 +1,7 @@
+'''
+Faça um programa que leia um número inteiro 
+qualquer e mostre na tela a sua tabuada
+'''
 value = int(input('Insert value: '))
 colors = {'yellow':  '\033[1:33m',
           'magenta': '\033[1:35m',
