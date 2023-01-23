@@ -1,3 +1,7 @@
+'''
+Escreva um programa que leia um valor em metros 
+e o exiba convertido em centímetros e milímetros
+'''
 meter = float(input('Insert value (M): '))
 centimeter = meter * 100
 millimeter = meter * 1000
