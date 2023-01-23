@@ -1,3 +1,4 @@
+# Crie um script Python que leia dois números e tente mostrar a soma entre eles
 a = int(input('Primeiro número: '))
 b = int(input('Segundo número: '))
 sumOf = a + b
