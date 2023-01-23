@@ -1,6 +1,8 @@
-'''Faça um programa que leia algo pelo teclado 
+'''
+Faça um programa que leia algo pelo teclado 
 e mostre na tela o seu tipo primitivo 
-e todas as informações possíveis sobre ele'''
+e todas as informações possíveis sobre ele
+'''
 inputOf = input('Digite algo: ')
 colors = {'clear':  '\033[m',
           'yellow': '\033[33m',
